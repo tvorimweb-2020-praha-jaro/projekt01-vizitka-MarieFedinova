@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+  }
+
+body {
+    color: cornflowerblue;
+    font-family: 'Roboto', 'Arial';
+    background-color: rgb(51, 51, 50);
+    padding: 20px 20% 0 20%;
+    text-align: justify;
+    line-height: 1.5;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 15rem;
+}
+
+h1 {
+    color: rgb(151, 185, 201);
+}
+
+.text {
+    width: 50%;
+    float: left;
+}
+
+.foto {
+    width: 45%;
+    float: right;
+}
+
+a {
+    color: cornflowerblue;
+}
